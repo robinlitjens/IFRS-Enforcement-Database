@@ -4,4 +4,4 @@ This file contains IFRS enforcement implementation in the European Union for the
 
 When using the data, please cite our paper: 
 
-Bissessur, S., Litjens, R., & Ormazabal, G. (2023). Measuring IFRS Enforcement Strength. New Evidence and Directions for Future Research. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940337
+Bissessur, S., Litjens, R., & Ormazabal, G. (2023) Enforcement of Financial Reporting Regulation: Insights From New Data. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4620424)
